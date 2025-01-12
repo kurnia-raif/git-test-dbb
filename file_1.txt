@@ -6,3 +6,5 @@ import seaborn as sns
 code dari kak cleonie
 
 kodingan dari kurnia dengan full dan lengkap
+
+contoh code dari kak amellia
