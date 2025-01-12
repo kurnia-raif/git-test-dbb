@@ -6,3 +6,4 @@ import seaborn as sns
 # code eksperimen berasal dari branch
 
 code main pada hari berikutnya
+code eksperimen 2 pada hari senin
