@@ -1,5 +1,8 @@
 import pandas as pd
+import seaborn as sns
 
 # code ini berasal dari local
 
 code dari kak cleonie
+
+kodingan dari kurnia dengan full dan lengkap
