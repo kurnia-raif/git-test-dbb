@@ -4,5 +4,3 @@ import seaborn as sns
 # code ini berasal dari main
 
 # code eksperimen berasal dari branch
-
-# code eksperimen 2
